@@ -12,4 +12,4 @@
 
 [Git-Github Repository](https://github.com/jahid-github/Git-Github)
 
-[Banglay Git and Github](./git_github.pdf)
+[Banglay Git and Github](./git_gitHub.pdf)
