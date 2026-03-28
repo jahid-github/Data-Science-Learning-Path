@@ -16,6 +16,7 @@
 
 ## SQL Basics
 [SQL Repository](https://github.com/jahid-github/SQL)
+
 [SQL W3School](https://www.w3schools.com/sql/default.asp)
 
 ## Python
