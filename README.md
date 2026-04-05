@@ -11,7 +11,7 @@ It includes:
 * Probability
 * Computer Science basics
 * Python basics
-* [SQL basics](/introduction-to-sql-with-ai.pdf)
+* SQL basics
 * Programming concepts
 * Tools and environment setup
 
