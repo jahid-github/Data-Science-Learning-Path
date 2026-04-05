@@ -1,0 +1,65 @@
+Programming Languages
+- Python
+- R
+- SQL
+
+Machine Learning & Data Analysis
+- NumPy
+- Pandas
+- PyTorch
+- Scikit-learn
+- TensorFlow
+
+Visualization & BI
+- Looker Studio
+- Matplotlib
+- Plotly
+- Power BI
+- Seaborn
+- Tableau
+
+Databases & Warehouses
+- Azure Synapse
+- BigQuery
+- MongoDB
+- MySQL
+- PostgreSQL
+- Snowflake
+- SQL Server
+
+Data Engineering & Platforms
+- Airflow
+- Apache Spark
+- Azure Data Lake
+- CI/CD (GitHub Actions)
+- Data Modeling (Star/Snowflake)
+- Data Pipelines
+- Databricks (beginner)
+- dbt (learning)
+- Delta Lake
+- ETL/ELT
+- HDFS
+- PySpark
+
+Cloud
+- Google Cloud
+- Microsoft Azure
+
+Developer Tools
+- DBeaver
+- Docker
+- Git & GitHub
+- Jupyter Notebook
+- PowerShell
+- VS Code
+
+Project Management & Collaboration
+- ClickUp
+- Confluence
+- Jira
+- Microsoft Planner
+- Slack
+- Trello
+
+Other
+- Apache (open source software projects)
