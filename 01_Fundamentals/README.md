@@ -21,7 +21,11 @@
 
 [SQL W3School](https://www.w3schools.com/sql/default.asp)
 
-[SQL with AI](https://www.w3schools.com/sql/default.asp)
+[SQL with AI](./introduction-to-sql-with-ai.pdf)
+
+[MySQL Cheat Sheet](./MySQL_Cheat_Sheet.pdf)
+
+[PostgreSQL Cheat Sheet](./PostgreSQL_Cheat_Sheet.pdf)
 
 ## Python
 [Official Python Doc](https://docs.python.org/3/tutorial/index.html)
