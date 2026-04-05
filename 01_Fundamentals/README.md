@@ -14,10 +14,14 @@
 
 [Banglay Git and Github](./git_gitHub.pdf)
 
+[Markdown Cheat Sheet](./Markdown_Cheat_Sheet.pdf)
+
 ## SQL Basics
 [SQL Repository](https://github.com/jahid-github/SQL)
 
 [SQL W3School](https://www.w3schools.com/sql/default.asp)
+
+[SQL with AI](https://www.w3schools.com/sql/default.asp)
 
 ## Python
 [Official Python Doc](https://docs.python.org/3/tutorial/index.html)
