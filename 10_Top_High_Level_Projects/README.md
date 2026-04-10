@@ -88,3 +88,7 @@ Here are some top-notch Data Engineering projects that help build real-world ski
 - Reflects a real-world brand monitoring and product feedback use case
 - Combines NLP with data pipelines
 - Can be extended to support multiple platforms
+
+## PDF Resources
+
+No local PDF files are stored in this section yet.

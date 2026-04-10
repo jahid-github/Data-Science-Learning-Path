@@ -198,3 +198,14 @@ After completing this section, you should be ready to do small but meaningful wo
 * use dropout or batch normalization to improve training stability
 * run a pretrained model and adapt it using transfer learning
 * choose between PyTorch and TensorFlow/Keras for a practical project
+
+## PDF Resources
+
+### Core Reading
+
+* [Deep Learning From Scratch](./Deep Learning From Scratch.pdf)
+* [Deep Learning with PyTorch](./Deep_Learning_with_PyTorch_1.pdf)
+
+### Framework Quick Reference
+
+* [Keras Cheat Sheet](./Keras_Cheat_Sheet_gssmi8.pdf)

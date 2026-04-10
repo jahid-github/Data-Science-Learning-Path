@@ -205,3 +205,9 @@ After this section, the strongest next steps are:
 * [Machine and Computer Vision](../07_Machine_and_Computer_Vision/README.md)
 * [AI Engineering, LLMs, and Automation](../09_AI_Engineering_LLM_Automation/README.md)
 * [Interview Prep](../11_Interview_Prep/README.md)
+
+## PDF Resources
+
+### NLP Tools
+
+* [spaCy Cheat Sheet](./spaCy_Cheat_Sheet_final.pdf)

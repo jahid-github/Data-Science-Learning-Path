@@ -203,3 +203,7 @@ After this section, the strongest next steps are:
 * [Intelligent Robotics](../08_Intelligent_Robotics/README.md)
 * [AI Engineering, LLMs, and Automation](../09_AI_Engineering_LLM_Automation/README.md)
 * [Top High Level Projects](../10_Top_High_Level_Projects/README.md)
+
+## PDF Resources
+
+No local PDF files are stored in this section yet.

@@ -210,3 +210,10 @@ After this section, the strongest next steps are:
 
 * [Top High Level Projects](../10_Top_High_Level_Projects/README.md)
 * [Interview Prep](../11_Interview_Prep/README.md)
+
+## PDF Resources
+
+### Agents and LLM Platforms
+
+* [AI Agents Cheat Sheet](./ai-agents-cheat-sheet.pdf)
+* [Working with Hugging Face](./working-with-hugging-face.pdf)
