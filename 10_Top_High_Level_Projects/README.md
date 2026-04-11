@@ -89,6 +89,6 @@ Here are some top-notch Data Engineering projects that help build real-world ski
 - Combines NLP with data pipelines
 - Can be extended to support multiple platforms
 
-## PDF Resources
+## Some Projects
+- [ML lifecycle from data ingestion to model deployment-Snowflake](https://www.snowflake.com/en/developers/guides/first-machine-learning-project/?gad_campaignid=23432506784)
 
-No local PDF files are stored in this section yet.
