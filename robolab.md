@@ -73,6 +73,11 @@ This document organizes the current tools, platforms, and technologies used or b
 - Slack
 - Trello
 
-## Other
+## Robotics
+- [Worlds Advanced Simulator](https://wokwi.com/)
+- [Beckhoff Automation](https://www.beckhoff.com/fi-fi/)
+- [UiPath RPA](https://www.uipath.com/rpa/robotic-process-automation)
+
+## Others
 
 - Apache ecosystem (open source software projects)
