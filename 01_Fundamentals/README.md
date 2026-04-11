@@ -61,7 +61,7 @@
 * [ChatGPT Business Cheat Sheet](./ChatGPT_Business_Cheat_Sheet-compressed.pdf)
 * [ChatGPT Cheat Sheet for Data Science](./ChatGPT_Cheat_Sheet_Data_Science.pdf)
 * [Data Science for Business Leaders Cheat Sheet](./Cheat+Sheet_DS+For+Business+Leaders.pdf)
-* [Data Information-Knowledge-Wisdom Pyramid](./Data Information-Knowledge-Wisdom Pyramid.pdf)
+* [Data Information-Knowledge-Wisdom Pyramid](./Data_Information_Knowledge_Wisdom_Pyramid.pdf)
 * [Data Governance Cheat Sheet](./Data_Governance_Cheat_Sheet.pdf)
 * [Data Manipulation in Excel Cheat Sheet](./Data_Manipulation_in_Excel_Cheat_Sheet.pdf)
 * [Data Quality Dimensions](./Data_Quality_Dimensions_yebbuu.pdf)
