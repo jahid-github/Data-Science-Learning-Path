@@ -1,44 +1,4 @@
 # Fundamentals
-## Math
-[Module 1 Linear Algebra](./linear_algebra.pdf)
-
-[Module 2 Calculus](./calculus.pdf)
-
-[Module 3 Regression](./regression.pdf)
-
-[Module 4 Statistics](./statistics.pdf)
-
-## Git and Github
-
-[Git-Github Repository](https://github.com/jahid-github/Git-Github)
-
-[Banglay Git and Github](./git_gitHub.pdf)
-
-[Markdown Cheat Sheet](./Markdown_Cheat_Sheet.pdf)
-
-## SQL Basics
-[SQL Repository](https://github.com/jahid-github/SQL)
-
-[SQL W3School](https://www.w3schools.com/sql/default.asp)
-
-[SQL with AI](./introduction-to-sql-with-ai.pdf)
-
-[MySQL Cheat Sheet](./MySQL_Cheat_Sheet.pdf)
-
-[PostgreSQL Cheat Sheet](./PostgreSQL_Cheat_Sheet.pdf)
-
-## Python
-[Official Python Doc](https://docs.python.org/3/tutorial/index.html)
-
-[W3Schools Python](https://www.w3schools.com/python/)
-
-[W3School Numpy](https://www.w3schools.com/python/numpy/default.asp)
-
-[W3School Pandas](https://www.w3schools.com/python/pandas/default.asp)
-
-[W3School Matplotlib](https://www.w3schools.com/python/matplotlib_intro.asp)
-
-## Complete Local PDF Library
 
 ### Math and Statistics
 
@@ -55,6 +15,7 @@
 * [Docker for Data Science Cheat Sheet](./Docker_for_Data_Science_Cheat_Sheet_2.pdf)
 * [Git Cheat Sheet](./git_cheat_sheet.pdf)
 * [Git and GitHub Guide](./git_gitHub.pdf)
+* [Banglay Git and Github](./git_gitHub.pdf)
 * [JupyterLab Cheat Sheet](./Jupyterlab_Cheat_Sheet.pdf)
 * [LaTeX Cheat Sheet](./LaTex_Cheat_Sheet.pdf)
 * [Markdown Cheat Sheet](./Markdown_Cheat_Sheet.pdf)
@@ -63,7 +24,7 @@
 ### SQL, Databases, and Data Querying
 
 * [Introduction to SQL with AI](./introduction-to-sql-with-ai.pdf)
-* [Introduction to SQL with AI Alternate Copy](./introduction-to-sql-with-ai-1.pdf)
+* [SQL W3School](https://www.w3schools.com/sql/default.asp)
 * [Joining Data in SQL](./joining-data-in-sql-updated-0425.pdf)
 * [MySQL Cheat Sheet](./MySQL_Cheat_Sheet.pdf)
 * [PostgreSQL Cheat Sheet](./PostgreSQL_Cheat_Sheet.pdf)
@@ -80,6 +41,11 @@
 * [Python Cheat Sheet](./python-cheat-sheet.pdf)
 * [Regular Expressions Guide](./regular-expressions-v2.pdf)
 * [Working With Text Data in Python](./Working_With_Text_Data_in_Python.pdf)
+* [Official Python Doc](https://docs.python.org/3/tutorial/index.html)
+* [W3Schools Python](https://www.w3schools.com/python/)
+* [W3School Numpy](https://www.w3schools.com/python/numpy/default.asp)
+* [W3School Pandas](https://www.w3schools.com/python/pandas/default.asp)
+* [W3School Matplotlib](https://www.w3schools.com/python/matplotlib_intro.asp)
 
 ### R and Analytics
 
