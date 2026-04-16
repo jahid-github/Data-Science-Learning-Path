@@ -43,7 +43,7 @@ This document organizes the current tools, platforms, and technologies used or b
 - [Metabase](https://github.com/metabase/metabase)
 - [Grafana](https://github.com/grafana/grafana)
 - Looker Studio
-- (Matplotlib](https://www.w3schools.com/PYTHON/matplotlib_intro.asp)
+- [Matplotlib](https://www.w3schools.com/PYTHON/matplotlib_intro.asp)
 - [Plotly](https://github.com/plotly/plotly.py)
 - Power BI
 - [Seaborn](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp)
