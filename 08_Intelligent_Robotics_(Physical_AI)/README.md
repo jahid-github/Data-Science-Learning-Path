@@ -1,4 +1,4 @@
-# Intelligent Robotics
+# Intelligent Robotics (Physical AI)
 ## 1. Foundations (Non-negotiable)
 
 ### Math
