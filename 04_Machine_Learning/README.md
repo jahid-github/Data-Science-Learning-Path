@@ -7,6 +7,7 @@
 - [Machine Learning Cheat Sheet](./ML+Cheat+Sheet_2.pdf)
 
 - [Scikit-Learn Cheat Sheet](./Scikit-Learn_Cheat_Sheet.pdf)
+- [ML RoadMap Bangla](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
 
 ### Model Families
 
