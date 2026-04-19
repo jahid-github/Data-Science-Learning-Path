@@ -8,10 +8,7 @@
 
 - [Scikit-Learn Cheat Sheet](./Scikit-Learn_Cheat_Sheet.pdf)
 - [ML RoadMap Bangla](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
-<iframe width="640" height="360"
-src="https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f"
-frameborder="0" allowfullscreen>
-</iframe>
+
 ### Model Families
 
 * [Supervised Machine Learning Models](./Supervised_Machine_Learning_Models.pdf)
