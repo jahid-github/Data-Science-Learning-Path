@@ -1,8 +1,5 @@
 # Data Science & Physical AI Learning Path
 
-> **Student:** B.Eng in ICT (Robotics) — HAMK University of Applied Sciences, Finland
-> **Goal:** Physical AI Engineer | Robotics Software Engineer | AI Automation Architect
-
 Preparing for roles in **ICT, ICT Automation, Industry Automation, Data Engineering, Intelligent Robotics, AI, Physical AI, and ML** — learning hands-on, step-by-step from fundamentals to advanced real-world systems.
 
 ---
