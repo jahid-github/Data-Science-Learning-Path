@@ -1,6 +1,22 @@
-# Top High-Level Data Engineering Projects
+# Phase 10 — Capstone Projects
 
-Here are some top-notch Data Engineering projects that help build real-world skills, impress recruiters, and align with future industry demands.
+Enterprise-grade, end-to-end projects that integrate everything learned across all phases. These projects are designed to impress recruiters, demonstrate real-world engineering skills, and align with Physical AI / Robotics / Data Engineering career targets.
+
+---
+
+## Project Overview
+
+| # | Project | Key Phases | Primary Skills |
+|---|---------|-----------|---------------|
+| 1 | [Real-Time Data Pipeline (Kafka + Spark)](#1-real-time-data-pipeline-with-kafka--spark--cassandra) | 2, 4 | Streaming, big data, fault tolerance |
+| 2 | [Azure Cloud Data Architecture](#2-data-lake--data-warehouse-with-azure-synapse--adls--data-factory) | 2 | Cloud engineering, ETL, warehousing |
+| 3 | [End-to-End ETL for Job Listings](#3-end-to-end-etl-pipeline-for-job-listings) | 2, 3, 6 | Full ETL ownership, NLP, BI |
+| 4 | [IoT Data Pipeline for Robotics Sensors](#4-iot-data-pipeline-for-robotics-sensors) | 2, 8 | Sensor streaming, time-series, Grafana |
+| 5 | [Social Media Sentiment Pipeline](#5-social-media-sentiment-data-pipeline) | 2, 3, 6 | NLP, pipelines, dashboards |
+
+---
+
+Here are some top-notch projects that build real-world skills, impress recruiters, and align with future industry demands.
 
 ## 1. Real-Time Data Pipeline with Kafka + Spark + Cassandra
 

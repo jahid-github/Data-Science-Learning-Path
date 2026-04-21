@@ -1,4 +1,35 @@
-# Fundamentals
+# Phase 1 — Fundamentals
+
+The foundation of everything. This phase covers core math, programming, tooling, and environment setup needed before moving into data engineering, ML, or robotics.
+
+---
+
+## Learning Goals
+
+- Master Python for data science, scripting, and automation
+- Build SQL fluency for data querying and modeling
+- Understand core math: linear algebra, calculus, statistics, probability
+- Set up a professional development environment
+- Learn Git workflow for version-controlled projects
+
+---
+
+## Core Tools & Languages
+
+| Category | Tools |
+|----------|-------|
+| **Languages** | Python · C++ · SQL |
+| **Environment** | Jupyter Notebook · VS Code · Conda |
+| **Version Control** | Git · GitHub |
+| **Containers** | Docker · Docker Compose |
+| **Shell** | Bash · PowerShell |
+| **Infrastructure** | Kubernetes · NGINX · GitHub Actions (CI/CD) |
+| **DB Client** | DBeaver |
+| **Markup** | Markdown · LaTeX · Quarto |
+
+---
+
+## Study Sections
 
 ### Math and Statistics
 
@@ -8,6 +39,8 @@
 * [Statistics Module](./statistics.pdf)
 * [Probability Cheat Sheet](./Probability_Cheat_Sheet.pdf)
 
+---
+
 ### Git, Shell, and Environment Setup
 
 * [Bash Cheat Sheet](./Bash_Cheat_Sheet.pdf)
@@ -15,11 +48,13 @@
 * [Docker for Data Science Cheat Sheet](./Docker_for_Data_Science_Cheat_Sheet_2.pdf)
 * [Git Cheat Sheet](./git_cheat_sheet.pdf)
 * [Git and GitHub Guide](./git_gitHub.pdf)
-* [Banglay Git and Github](./git_gitHub.pdf)
+* [Bangla Git and Github](./git_gitHub.pdf)
 * [JupyterLab Cheat Sheet](./Jupyterlab_Cheat_Sheet.pdf)
 * [LaTeX Cheat Sheet](./LaTex_Cheat_Sheet.pdf)
 * [Markdown Cheat Sheet](./Markdown_Cheat_Sheet.pdf)
 * [Quarto Cheat Sheet](./Quarto_Cheat_Sheet.pdf)
+
+---
 
 ### SQL, Databases, and Data Querying
 
@@ -33,6 +68,8 @@
 * [SQL for Data Science](./sql-for-data-science.pdf)
 * [SQL Window Functions](./SQL_Window_Functions_1_1.pdf)
 
+---
+
 ### Python and Programming
 
 * [Julia Cheat Sheet](./Julia_Cheat_Sheet.pdf)
@@ -41,11 +78,13 @@
 * [Python Cheat Sheet](./python-cheat-sheet.pdf)
 * [Regular Expressions Guide](./regular-expressions-v2.pdf)
 * [Working With Text Data in Python](./Working_With_Text_Data_in_Python.pdf)
-* [Official Python Doc](https://docs.python.org/3/tutorial/index.html)
+* [Official Python Docs](https://docs.python.org/3/tutorial/index.html)
 * [W3Schools Python](https://www.w3schools.com/python/)
-* [W3School Numpy](https://www.w3schools.com/python/numpy/default.asp)
+* [W3School NumPy](https://www.w3schools.com/python/numpy/default.asp)
 * [W3School Pandas](https://www.w3schools.com/python/pandas/default.asp)
 * [W3School Matplotlib](https://www.w3schools.com/python/matplotlib_intro.asp)
+
+---
 
 ### R and Analytics
 
@@ -55,6 +94,8 @@
 * [Working With Dates and Time in R](./Working_with_Dates_and_Time_in_R.pdf)
 * [Working With Text Data in R](./Working_With_Text_Data_in_R.pdf)
 * [xts Cheat Sheet](./xts_Cheat_Sheet.pdf)
+
+---
 
 ### Data Literacy, BI, and Reporting
 
@@ -78,6 +119,8 @@
 * [Tableau Cheat Sheet](./Tableau+Cheat+Sheet.pdf)
 * [Working With Dates and Times Cheat Sheet](./Working_with_Dates_and_Times_Cheat_Sheet.pdf)
 * [Working With Tables in Power Query M in Power BI](./Working_With_Tables_in_Power_Query_M_in_Power_BI.pdf)
+
+---
 
 ### Cloud and Platform Comparison
 

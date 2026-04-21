@@ -1,6 +1,6 @@
-# Data Engineering
+# Phase 2 — Data Engineering
 
-Data engineers build and maintain the infrastructure that enables data to flow from source systems to storage, analysis, and ML models. This section covers the full modern data stack.
+Data engineers build and maintain the infrastructure that enables data to flow from source systems to storage, analysis, and ML models. This phase covers the full modern data stack.
 
 ---
 
@@ -11,7 +11,7 @@ Data engineers build and maintain the infrastructure that enables data to flow f
 - Relational: PostgreSQL, MySQL, SQL Server
 - Analytical: BigQuery, Snowflake, Azure Synapse, DuckDB
 - NoSQL: MongoDB (document), Redis (cache), InfluxDB (time-series)
-- Vector DBs: Weaviate, Pinecone (needed for section 09 RAG systems)
+- Vector DBs: Weaviate, Pinecone (needed for Phase 9 RAG systems)
 
 ### 2. Python for Data Engineering
 - File formats: CSV, JSON, Parquet, Avro, Delta
@@ -34,7 +34,7 @@ Data engineers build and maintain the infrastructure that enables data to flow f
 ### 5. Stream Processing
 - Apache Kafka: topics, producers, consumers, partitions
 - Apache Spark Structured Streaming
-- MQTT for IoT/sensor data (aligned with robotics section)
+- MQTT for IoT/sensor data (aligned with Phase 8 robotics)
 - Use cases: real-time dashboards, fraud detection, event-driven ML
 
 ### 6. Cloud Data Platforms
@@ -56,17 +56,48 @@ Data engineers build and maintain the infrastructure that enables data to flow f
 
 ---
 
-## Key Tools Summary
+## Tools & Platforms Reference
 
-| Category | Tools |
-|----------|-------|
-| Orchestration | Apache Airflow, Prefect |
-| Processing | Apache Spark, PySpark, dbt |
-| Streaming | Apache Kafka, Spark Streaming |
-| Storage | ADLS, Delta Lake, HDFS |
-| Warehouse | BigQuery, Snowflake, Synapse, DuckDB |
-| Cloud | Azure, GCP |
-| Containers | Docker, Kubernetes |
+### Data Engineering & Orchestration
+
+| Tool | Purpose |
+|------|---------|
+| [Apache Airflow](https://github.com/apache/airflow) | Workflow orchestration — DAGs, scheduling, monitoring |
+| [Apache Spark](https://spark.apache.org/) | Distributed data processing at scale |
+| [Apache Kafka](https://kafka.apache.org/) | Real-time event streaming and message brokering |
+| [dbt Core](https://github.com/dbt-labs/dbt-core) | SQL-based data transformation and modeling |
+| Azure Data Lake (ADLS) | Cloud object storage for raw and processed data |
+| Databricks | Unified analytics platform built on Spark + Delta Lake |
+| Delta Lake | Open-source storage layer for reliable data lakes |
+| HDFS | Hadoop Distributed File System for big data storage |
+| PySpark | Python API for Apache Spark |
+| GitHub Actions | CI/CD automation for data pipelines |
+
+### Databases & Data Warehouses
+
+| Type | Tools |
+|------|-------|
+| **Relational** | PostgreSQL · MySQL · SQL Server |
+| **Cloud Warehouse** | BigQuery (GCP) · Snowflake · Azure Synapse |
+| **Embedded / Analytical** | DuckDB |
+| **NoSQL (Document)** | MongoDB |
+| **Cache / Key-Value** | Redis |
+| **Vector DB** | Weaviate · Pinecone |
+
+### MLOps & Experiment Tracking
+
+| Tool | Purpose |
+|------|---------|
+| MLflow | Experiment tracking, model registry, deployment |
+| DVC | Data version control alongside Git |
+| Weights & Biases | Experiment visualization and hyperparameter sweeps |
+
+### Cloud Platforms
+
+| Platform | Key Services |
+|----------|-------------|
+| **Microsoft Azure** | ADLS, Data Factory (ADF), Synapse Analytics, Azure ML |
+| **Google Cloud (GCP)** | BigQuery, Cloud Storage, Dataflow, Pub/Sub, Vertex AI |
 
 ---
 

@@ -6,6 +6,36 @@
 
 ---
 
+## Career Direction for This Phase
+
+This phase is best treated as a specialization, not just a robotics overview.
+
+- Target role: Physical AI / Robotics ML Engineer
+- Best-fit environment: Finnish industrial robotics, automation, intelligent machines, and edge AI
+- Career story to build: "I design perception, planning, and control systems for robots that operate in real environments."
+- Best proof of skill: ROS2 repos, simulation-to-hardware demos, short videos, and one thesis or internship project tied to a real industrial use case
+
+### Physical AI Loop
+
+```mermaid
+flowchart LR
+    A[Sense<br/>Camera LiDAR IMU Force] --> B[Perceive<br/>YOLO SLAM Segmentation]
+    B --> C[Decide<br/>Behavior Trees MPC RL]
+    C --> D[Act<br/>MoveIt2 ros2_control PLC]
+    D --> E[Feedback<br/>Telemetry Logs Safety]
+    E --> A
+```
+
+- Sense: sensors produce time-stamped measurements from the physical world
+- Perceive: models and state estimation build a world model
+- Decide: planners and policies choose the next safe action
+- Act: controllers turn decisions into motion, torque, or industrial commands
+- Feedback: telemetry, failure analysis, and retraining improve the loop
+
+For a Finland-oriented roadmap, employer-aligned project ideas, and an 8-week starter plan, see [Finnish Physical AI Career Roadmap](./finnish-physical-ai-career-roadmap.md).
+
+---
+
 ## 1. Foundations (Non-negotiable)
 
 ### Math
@@ -268,6 +298,18 @@ Work through these progressively to build real Physical AI skills:
 | Simulation (industrial) | RoboDK, Wokwi |
 | Data logging | InfluxDB + Grafana, ROS2 bags |
 | Cloud | NVIDIA Omniverse, GCP Vertex AI |
+
+### Simulation & Industrial Tools — Detailed
+
+| Tool | Description |
+|------|-------------|
+| [ROS2](https://github.com/ros2) | Robot Operating System 2 — open-source middleware for building and scaling robot applications across platforms (nodes, topics, services, actions) |
+| [Gazebo](https://gazebosim.org/docs/all/getstarted/) | Physics-based robot simulation — test everything in simulation before deploying on hardware |
+| [LeRobot (HuggingFace)](https://github.com/huggingface/lerobot) | "Hugging Face for Robotics" — unified open-source toolkit for robot learning: ACT, Diffusion Policy, TDMPC2 |
+| [RoboDK](https://robodk.com/) | Offline programming and simulation software for industrial robots — supports 500+ robot models |
+| [Beckhoff Automation](https://www.beckhoff.com/fi-fi/) | Industrial PLC and TwinCAT real-time control system — Industry 4.0 and factory automation |
+| [UiPath RPA](https://www.uipath.com/rpa/robotic-process-automation) | Robotic Process Automation — automate repetitive software tasks in enterprise workflows |
+| [Wokwi](https://wokwi.com/) | Online electronics and microcontroller simulator — Arduino, ESP32, Raspberry Pi Pico simulation in the browser |
 
 ---
 
