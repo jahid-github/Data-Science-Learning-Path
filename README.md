@@ -79,26 +79,6 @@ flowchart TD
 
 ---
 
-## Progress Tracker
-
-| Phase | Section | Status |
-|-------|---------|--------|
-| 1 | Fundamentals | 🔄 In Progress |
-| 2 | Data Engineering | ⬜ Pending |
-| 3 | Data Analysis | ⬜ Pending |
-| 4 | Machine Learning | ⬜ Pending |
-| 5 | Deep Learning | ⬜ Pending |
-| 6 | NLP | ⬜ Pending |
-| 7 | Computer Vision | ⬜ Pending |
-| 8 | Physical AI & Robotics | ⬜ Pending |
-| 9 | ICT Automation | ⬜ Pending |
-| 10 | Capstone Projects | ⬜ Pending |
-| 11 | Interview Prep | ⬜ Pending |
-
-> Update status as you progress: &nbsp; ✅ Complete &nbsp; 🔄 In Progress &nbsp; ⬜ Pending
-
----
-
 ## Project Management & Collaboration
 
 | Tool | Purpose |
