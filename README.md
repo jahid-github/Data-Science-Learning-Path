@@ -1,4 +1,32 @@
-# Skills Inventory
+# Data Science Learning Path
+
+## Career Goal
+
+Building toward becoming a **Physical AI & Robotics Engineer** with deep expertise in the full AI/ML stack — from data pipelines and machine learning to computer vision, intelligent robotics, and LLM-powered automation systems.
+
+**Target Roles:** AI/ML Engineer → Physical AI Engineer | Robotics Software Engineer | AI Automation Architect
+
+---
+
+## Learning Roadmap
+
+| Phase | Section | Focus |
+|-------|---------|-------|
+| 1 | [01 - Fundamentals](./01_Fundamentals/) | Math, Python, SQL, Git, BI Tools |
+| 2 | [02 - Data Engineering](./02_Data_Engineering/) | Pipelines, ETL, Cloud, Orchestration |
+| 3 | [03 - Data Analysis](./03_Data_Analysis/) | NumPy, Pandas, Visualization, Statistics |
+| 4 | [04 - Machine Learning](./04_Machine_Learning/) | Supervised, Unsupervised, Scikit-learn |
+| 5 | [05 - Deep Learning](./05_Deep_Learning/) | Neural Networks, PyTorch, CNNs, RNNs |
+| 6 | [06 - NLP](./06_NLP/) | Text Processing, Transformers, LLMs |
+| 7 | [07 - Computer Vision](./07_Machine_and_Computer_Vision/) | OpenCV, YOLO, Object Detection, Segmentation |
+| 8 | [08 - Physical AI & Robotics](./08_Intelligent_Robotics_(Physical_AI)/) | ROS2, Gazebo, Spatial Intelligence, Control |
+| 9 | [09 - ICT Automation](./09_ICT_Automation/) | LLM Engineering, Agents, RAG, Automation |
+| 10 | [10 - Capstone Projects](./10_Top_High_Level_Projects/) | Enterprise-Grade End-to-End Projects |
+| 11 | [11 - Interview Prep](./11_Interview_Prep/) | DS/ML/System Design Interview Prep |
+
+---
+
+## Skills Inventory
 
 This document organizes the current tools, platforms, and technologies used or being learned across data science, analytics, engineering, and collaboration workflows.
 
