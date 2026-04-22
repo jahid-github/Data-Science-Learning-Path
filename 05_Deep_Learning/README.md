@@ -79,4 +79,3 @@ Deep learning uses multi-layer neural networks to learn complex patterns directl
 - [PyTorch Official Tutorials](https://pytorch.org/tutorials/)
 - [fast.ai Practical Deep Learning for Coders](https://course.fast.ai/)
 - [Deep Learning Specialization — Andrew Ng (Coursera)](https://www.deeplearning.ai/courses/deep-learning-specialization/)
-- [The Little Book of Deep Learning (François Fleuret)](https://fleuret.org/public/lbdl.pdf)
