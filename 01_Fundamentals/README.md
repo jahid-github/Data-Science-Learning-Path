@@ -4,16 +4,6 @@ The foundation of everything. This phase covers core math, programming, tooling,
 
 ---
 
-## Learning Goals
-
-- Master Python for data science, scripting, and automation
-- Build SQL fluency for data querying and modeling
-- Understand core math: linear algebra, calculus, statistics, probability
-- Set up a professional development environment
-- Learn Git workflow for version-controlled projects
-
----
-
 ## Core Tools & Languages
 
 | Category | Tools |
