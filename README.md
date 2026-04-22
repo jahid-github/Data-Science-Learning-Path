@@ -1,23 +1,5 @@
 # Data Science & Physical AI Learning Path
 
-Preparing for roles in **ICT, ICT Automation, Industry Automation, Data Engineering, Intelligent Robotics, AI, Physical AI, and ML** — learning hands-on, step-by-step from fundamentals to advanced real-world systems.
-
----
-
-## Career Target
-
-```mermaid
-flowchart LR
-    A["🎓 B.Eng ICT Robotics\nHAMK · Finland"] --> B["AI / ML Engineer"]
-    B --> C["Physical AI Engineer"]
-    B --> D["Robotics Software Engineer"]
-    B --> E["AI Automation Architect"]
-```
-
-**Core Stack:** Python · C++ · PyTorch · ROS2 · LLMs · Edge AI
-
----
-
 ## Learning Roadmap
 
 ```mermaid
