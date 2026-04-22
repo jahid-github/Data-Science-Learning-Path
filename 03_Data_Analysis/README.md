@@ -50,13 +50,13 @@ Data analysis is the process of inspecting, cleaning, transforming, and modeling
 
 | Library / Tool | Purpose |
 |---------------|---------|
-| **NumPy** | Multidimensional arrays and numerical operations |
-| **Pandas** | Data manipulation and analysis — handles mixed types (floats, strings, dates), 2D DataFrames |
-| **SciPy** | Scientific computing, statistical tests, signal processing |
-| **Matplotlib** | Base Python plotting library — full figure control |
-| **Seaborn** | Statistical data visualization built on Matplotlib |
-| **[Plotly](https://github.com/plotly/plotly.py)** | Interactive, web-ready charts and dashboards |
-| **Bokeh** | Interactive visualizations for modern web browsers |
+| **[NumPy](./Numpy_Cheat_Sheet.pdf)** | Multidimensional arrays and numerical operations |
+| **[Pandas](./Pandas_Cheat_Sheet.pdf)** | Data manipulation and analysis — handles mixed types (floats, strings, dates), 2D DataFrames |
+| **[SciPy](./SciPy_Cheat_Sheet.pdf)** | Scientific computing, statistical tests, signal processing |
+| **[Matplotlib](./Matplotlib_Cheat_Sheet.pdf)** | Base Python plotting library — full figure control |
+| **[Seaborn](./Seaborn_Cheat_Sheet.pdf)** | Statistical data visualization built on Matplotlib |
+| **[Plotly](./Plotly_Cheat_Sheet.pdf)** | Interactive, web-ready charts and dashboards |
+| **[Bokeh](./Bokeh_Cheat_Sheet.pdf)** | Interactive visualizations for modern web browsers |
 | Power BI | Microsoft BI — dashboards, DAX calculations, PL-300 certification |
 | Tableau | Enterprise visual analytics platform |
 | **[Grafana](https://github.com/grafana/grafana)** | Real-time monitoring and operational dashboards |
@@ -67,22 +67,9 @@ Data analysis is the process of inspecting, cleaning, transforming, and modeling
 ---
 
 ## PDF Resources
-
-### Core Python Data Work
-
-* [NumPy Cheat Sheet](./Numpy_Cheat_Sheet.pdf)
-* [Pandas Cheat Sheet](./Pandas_Cheat_Sheet.pdf)
 * [Reshaping Data with Python](./Reshaping_data_with_Python.pdf)
-* [SciPy Cheat Sheet](./SciPy_Cheat_Sheet.pdf)
-
-### Data Visualization
-
-* [Bokeh Cheat Sheet](./Bokeh_Cheat_Sheet.pdf)
 * [Data Visualizations - DataCamp](./Data+Visualizations+-+DataCamp.pdf)
 * [ggplot2 Cheat Sheet](./ggplot2_cheat_sheet.pdf)
-* [Matplotlib Cheat Sheet](./Matplotlib_Cheat_Sheet.pdf)
-* [Plotly Cheat Sheet](./Plotly_Cheat_Sheet.pdf)
-* [Seaborn Cheat Sheet](./Seaborn_Cheat_Sheet.pdf)
 
 ### Statistics and Adjacent References
 
