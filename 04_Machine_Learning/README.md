@@ -48,7 +48,6 @@ Machine learning enables systems to learn patterns from data and make prediction
 
 ## PDF Resources
 
-* [Pandas Cheat Sheet](./Pandas_Cheat_Sheet.pdf)
 * [Machine Learning Cheat Sheet](./ML+Cheat+Sheet_2.pdf)
 * [Scikit-Learn Cheat Sheet](./Scikit-Learn_Cheat_Sheet.pdf)
 * [Supervised Machine Learning Models](./Supervised_Machine_Learning_Models.pdf)
