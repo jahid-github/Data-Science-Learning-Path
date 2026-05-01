@@ -320,6 +320,7 @@ Work through these progressively to build real Physical AI skills:
 * [NVIDIA Physical AI Learning](https://docs.nvidia.com/learning/physical-ai/index.html)
 * [LeRobot Documentation](https://github.com/huggingface/lerobot)
 * [ROS2 Official Tutorials](https://docs.ros.org/en/humble/Tutorials.html)
+* [Unibotics](https://unibotics.org/) — browser-based robotics simulation and hands-on exercises
 * [The Construct ROS2 Courses](https://app.theconstruct.ai/)
 * [Manipulation (Russ Tedrake, MIT)](https://manipulation.csail.mit.edu/) — best robotics manipulation textbook
 * [Probabilistic Robotics (Thrun et al.)](https://probabilistic-robotics.org/) — SLAM, localization, filtering
