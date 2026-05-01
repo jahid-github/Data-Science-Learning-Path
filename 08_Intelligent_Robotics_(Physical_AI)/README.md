@@ -1,5 +1,7 @@
 # Intelligent Robotics (Physical AI)
 
+![Physical AI overview](./info_physical_ai.jpeg)
+
 **Physical AI** is the discipline of building robots and autonomous systems that perceive the physical world through sensors, reason using AI models, and act through actuators — closing the loop between intelligence and the real world. This is the frontier of AI beyond language models.
 
 **End Goal:** Build systems that go from `Sensor Input → Perception → Reasoning → Planning → Action → Feedback`
