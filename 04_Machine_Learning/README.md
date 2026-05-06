@@ -80,3 +80,8 @@ Strong evidence:
 - experiment tracking
 - inference script or small API
 - business interpretation of results
+
+## Machine Learning Projects
+### pre-Developing Projects
+- 1. 
+### Developing Projects
