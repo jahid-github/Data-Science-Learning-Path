@@ -119,3 +119,20 @@ Data engineers build and maintain the infrastructure that enables data to flow f
 - [dbt Fundamentals](https://courses.getdbt.com/courses/fundamentals)
 - [Databricks Academy](https://www.databricks.com/learn/training/home)
 - [Kafka Quickstart](https://kafka.apache.org/quickstart)
+
+## Data Engineering Project
+
+Minimum proof:
+
+- ingest raw job listing data from one or more sources
+- clean and normalize the data
+- store curated tables in PostgreSQL, DuckDB, or a warehouse
+- schedule or automate the pipeline
+- produce one dashboard or analytical summary
+
+Strong evidence:
+
+- data quality checks
+- containerized local setup
+- architecture diagram
+- documented schema

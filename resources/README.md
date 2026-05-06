@@ -36,6 +36,8 @@ Recruiters care much more about:
 | [../08_Intelligent_Robotics_(Physical_AI)](../08_Intelligent_Robotics_(Physical_AI)/) | Robotics and Physical AI specialization |
 | [../09_ICT_Automation](../09_ICT_Automation/) | AI engineering, agents, and automation |
 | [../11_Interview_Prep](../11_Interview_Prep/) | Interview preparation topics |
+| [../12_Business Development_&_Entreprenureship](../12_Business%20Development_%26_Entreprenureship/) | Business strategy, go-to-market, pricing, and entrepreneurship |
+| [../13_Product design and Development](../13_Product%20design%20and%20Development/) | Product discovery, UX, development workflow, and launch practices |
 
 ## Rule For Future Updates
 

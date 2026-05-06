@@ -64,3 +64,19 @@ Machine learning enables systems to learn patterns from data and make prediction
 - [XGBoost Documentation](https://xgboost.readthedocs.io/)
 - [Hands-On ML with Scikit-Learn, Keras & TensorFlow — Aurélien Géron](https://github.com/ageron/handson-ml3)
 - [ML Lifecycle from Data Ingestion to Model Deployment (Snowflake)](https://www.snowflake.com/en/developers/guides/first-machine-learning-project/)
+
+## Tabular ML Project
+
+Minimum proof:
+
+- train/validation/test split
+- baseline model and improved model
+- metric comparison
+- feature engineering notes
+- confusion matrix or regression-error analysis
+
+Strong evidence:
+
+- experiment tracking
+- inference script or small API
+- business interpretation of results

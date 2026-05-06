@@ -118,3 +118,18 @@ Strong vision practitioners develop:
 * [fast.ai Practical Deep Learning for Coders](https://course.fast.ai/)
 * [Kaggle Learn: Computer Vision](https://www.kaggle.com/learn/computer-vision)
 * [DataCamp Computer Vision Courses](https://www.datacamp.com/courses-all?technology=Computer+Vision)
+
+## Computer Vision Project
+
+Minimum proof:
+
+- dataset description
+- training or fine-tuning workflow
+- measurable evaluation
+- qualitative failure-case review
+
+Strong evidence:
+
+- edge or optimized inference
+- comparison between two model approaches
+- deployment notes

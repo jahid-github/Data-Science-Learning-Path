@@ -21,7 +21,7 @@ The strongest long-term positioning for this repo is not "I collected many resou
 |------|---------|
 | [resources/](./resources/) | Entry point to the learning roadmap and study material already in the repository |
 | [projects/](./projects/) | Flagship portfolio projects that should become recruiter-facing proof of skill |
-| [01_Fundamentals](./01_Fundamentals/) to [11_Interview_Prep](./11_Interview_Prep/) | Structured study phases and topic references |
+| [01_Fundamentals](./01_Fundamentals/) to [11_Interview_Prep](./11_Interview_Prep/), [12_Business Development_&_Entreprenureship](./12_Business%20Development_%26_Entreprenureship/), and [13_Product design and Development](./13_Product%20design%20and%20Development/) | Structured study phases and topic references |
 | [10_Top_High_Level_Projects](./10_Top_High_Level_Projects/) | Project idea backlog and capstone planning |
 
 ---
@@ -78,6 +78,8 @@ The numbered phase folders remain the study backbone of the repo:
 | [09_ICT_Automation](./09_ICT_Automation/) | Agents, RAG, FastAPI, LLM systems |
 | [10_Top_High_Level_Projects](./10_Top_High_Level_Projects/) | Capstone ideas and project backlog |
 | [11_Interview_Prep](./11_Interview_Prep/) | Interview preparation topics and practice resources |
+| [12_Business Development_&_Entreprenureship](./12_Business%20Development_%26_Entreprenureship/) | Business development, GTM, pricing, and entrepreneurship for IT products |
+| [13_Product design and Development](./13_Product%20design%20and%20Development/) | Product discovery, UX, delivery, and iteration for digital products |
 
 See [resources/README.md](./resources/README.md) for how these should be used.
 
