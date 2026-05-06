@@ -85,5 +85,5 @@ Strong evidence:
 
 ## Machine Learning Projects
 ### pre-Developing Projects
-- 1. 
+[Here is the 33 projects list ](https://www.datacamp.com/blog/machine-learning-projects-for-all-levels)
 ### Developing Projects
