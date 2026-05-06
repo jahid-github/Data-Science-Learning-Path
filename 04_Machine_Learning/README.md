@@ -67,7 +67,7 @@ Machine learning enables systems to learn patterns from data and make prediction
 
 ## Tabular ML Project
 **How to Start a Machine Learning Project?**
-.![**How to Start a Machine Learning Project?**](Machine_Learning_Project_Start.png)
+![**How to Start a Machine Learning Project?**](Machine_Learning_Project_Start.png)
 
 Minimum proof:
 
