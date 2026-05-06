@@ -110,3 +110,8 @@ Modern AI products increasingly depend on engineering **around** models — not 
 * [LangChain Documentation](https://python.langchain.com/docs/introduction/)
 * [LlamaIndex Documentation](https://docs.llamaindex.ai/)
 * [FastAPI Documentation](https://fastapi.tiangolo.com/)
+
+## Prjects
+### Upcoming
+### Develpoing
+- [Building-RAG-Chatbots-for-Technical-Documentation](https://github.com/jahid-github/Building-RAG-Chatbots-for-Technical-Documentation)
