@@ -8,7 +8,7 @@ The foundation of everything. This phase covers core math, programming, tooling,
 
 | Category | Tools |
 |----------|-------|
-| **Languages** | Python · C++ · SQL |
+| **Languages** | Python · SQL |
 | **Environment** | Jupyter Notebook · VS Code · Conda |
 | **Version Control** | Git · GitHub |
 | **Containers** | Docker · Docker Compose |
