@@ -68,7 +68,7 @@ The foundation of everything. This phase covers core math, programming, tooling,
 * [Python Cheat Sheet](./python-cheat-sheet.pdf)
 * [Regular Expressions Guide](./regular-expressions-v2.pdf)
 * [Working With Text Data in Python](./Working_With_Text_Data_in_Python.pdf)
-* [OOP IN PYTHON](./OOP_in_Python.pdf)
+* [OOP IN PYTHON](01_Fundamentals/Python OOP.ipynb)
 #### Personal Notes and Practices
 * [Become a Python Developer]()
 * [115 Python Problem](./115_Python_Problems)
