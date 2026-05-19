@@ -15,3 +15,12 @@
 12. [12_Business Development_&_Entreprenureship](./12_Business%20Development_%26_Entreprenureship/)
 13. [13_Product_Design_&_Development](./13_Product_Design_%26_Development/)
 
+## Some platforms are being importance im this journey
+- Netacad
+- Learn Google, AWS, MS
+- DataCamp
+- Kaggle
+- CodeChef
+- FreeCodeCamp
+- HackerRank
+- WorldQuant
