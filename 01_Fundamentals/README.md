@@ -71,8 +71,8 @@ The foundation of everything. This phase covers core math, programming, tooling,
 * [OOP IN PYTHON](./OOP_in_Python.pdf)
 #### Personal Notes and Practices
 * [Become a Python Developer]()
-* [115 Python Problem]()
-* [FreeCodeCamp Python OOP]()
+* [115 Python Problem](./115_Python_Problems)
+* [FreeCodeCamp Python OOP](./Python_OOP)
 * []()
 * []()
 * []()
