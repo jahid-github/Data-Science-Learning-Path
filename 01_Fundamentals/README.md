@@ -61,13 +61,22 @@ The foundation of everything. This phase covers core math, programming, tooling,
 ---
 
 ### Python and Programming
-
+#### PDF Sources
 * [Julia Cheat Sheet](./Julia_Cheat_Sheet.pdf)
 * [OpenAI Python Reference](./Open_AI_Python.pdf)
 * [Python Basics Cheat Sheet](./python-basics-cheat-sheet-v4.pdf)
 * [Python Cheat Sheet](./python-cheat-sheet.pdf)
 * [Regular Expressions Guide](./regular-expressions-v2.pdf)
 * [Working With Text Data in Python](./Working_With_Text_Data_in_Python.pdf)
+* [OOP IN PYTHON](./OOP_in_Python.pdf)
+#### Personal Notes and Practices
+* [Become a Python Developer]()
+* [115 Python Problem]()
+* [FreeCodeCamp Python OOP]()
+* []()
+* []()
+* []()
+#### External Python Sources
 * [Official Python Docs](https://docs.python.org/3/tutorial/index.html)
 * [W3Schools Python](https://www.w3schools.com/python/)
 * [W3School NumPy](https://www.w3schools.com/python/numpy/default.asp)
