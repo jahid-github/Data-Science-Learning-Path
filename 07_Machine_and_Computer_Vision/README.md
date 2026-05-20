@@ -119,6 +119,23 @@ Strong vision practitioners develop:
 * [Kaggle Learn: Computer Vision](https://www.kaggle.com/learn/computer-vision)
 * [DataCamp Computer Vision Courses](https://www.datacamp.com/courses-all?technology=Computer+Vision)
 
+## PDF Sheets
+
+### Computer Vision
+- [Computer Vision Sheet 1](ComputerVisionSheet1.pdf)
+- [Computer Vision Sheet 2](ComputerVisionSheet2.pdf)
+
+### Machine Learning
+- [KNN Algorithm](KNNAlgorithm.pdf)
+- [Machine Learning Basics](MachineLearningBasics.pdf)
+- [Machine Learning Sheet 1](MachineLearningSheet1.pdf)
+- [Machine Learning Sheet 2](MachineLearningSheet2.pdf)
+- [Machine Learning Sheet 3](MachineLearningSheet3.pdf)
+- [Machine Learning Sheet 4](MachineLearningSheet4.pdf)
+- [Machine Learning Sheet 5](MachineLearningSheet5.pdf)
+- [Machine Learning Sheet 6](MachineLearningSheet6.pdf)
+- [Machine Learning Sheet 7](MachineLearningSheet7.pdf)
+
 ## Computer Vision Project
 
 Minimum proof:
