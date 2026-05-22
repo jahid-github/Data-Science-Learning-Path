@@ -125,6 +125,7 @@ Strong vision practitioners develop:
 - [Computer Vision Sheet 1](ComputerVisionSheet1.pdf)
 - [Computer Vision Sheet 2](ComputerVisionSheet2.pdf)
 - [Computer Vision Sheet 3](ComputerVisionSheet3.pdf)
+- [Computer Vision Sheet 3](ComputerVisionSheet4.pdf)
 
 ### Machine Learning
 - [KNN Algorithm](KNNAlgorithm.pdf)
