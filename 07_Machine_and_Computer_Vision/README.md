@@ -123,6 +123,8 @@ Strong vision practitioners develop:
 
 ### Computer Vision
 - [Computer Vision Sheet 1](ComputerVisionSheet1.pdf)
+- [CV_BasicOperations_Code](CV_BasicOperations_Code.pdf)
+-[HighLowPassFiltering_Code](HighLowPassFiltering_Code.pdf)
 - [Computer Vision Sheet 2](ComputerVisionSheet2.pdf)
 - [Computer Vision Sheet 3](ComputerVisionSheet3.pdf)
 - [Computer Vision Sheet 4](ComputerVisionSheet4.pdf)
